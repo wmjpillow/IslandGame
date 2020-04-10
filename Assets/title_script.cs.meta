@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5dce0705d415a0d4aab5612a546d5522
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gardenOverlay: {instanceID: 0}
+  - transport1: {fileID: 4918798656259121950, guid: 67aa140a12c474e88957f83041361fc4,
+      type: 3}
+  - transport2: {instanceID: 0}
+  - transport3: {instanceID: 0}
+  - transport4: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

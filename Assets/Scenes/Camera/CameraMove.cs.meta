@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: de6555d309097534aaad7e135d6c113b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _originalTransform: {instanceID: 0}
+  - gpd: {instanceID: 0}
+  - gardenOverlay: {instanceID: 0}
+  - mainHubMusic1: {fileID: 8300000, guid: cbb44ad9a8f3c7a4e9ea70f195cb75ad, type: 3}
+  - mainHubMusic2: {fileID: 8300000, guid: c0bf3c5bd95baef46817173d22d2a277, type: 3}
+  - mainHubMusic3: {fileID: 8300000, guid: 706be60438050f14483e3d01e006a1e4, type: 3}
+  - mainHubMusic4: {fileID: 8300000, guid: 47880f281622d6246b5ade17f1a5f287, type: 3}
+  - zoomOut: {instanceID: 0}
+  - gaiaImage: {instanceID: 0}
+  - gaiaImage2: {instanceID: 0}
+  - gaiaImage3: {instanceID: 0}
+  - gaiaImage4: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

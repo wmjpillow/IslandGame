@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6aebea67ffab3a048af420fcb6af2139
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - FinchLeft: {fileID: 7452655622919917668, guid: ab240168a70058c44ac0d1b2b76c944c,
+      type: 3}
+  - FinchRight: {fileID: 662079581706741465, guid: 3685e07cef35aad4b9d5b2c95a5d1e4d,
+      type: 3}
+  - SparrowLeft: {fileID: 9171552731233676385, guid: 9586c0dff9fca68478a8a55b899da785,
+      type: 3}
+  - sparrowRight: {fileID: 6941092733708613148, guid: 435d0211e4e05dd428a5ea5402e8ba80,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

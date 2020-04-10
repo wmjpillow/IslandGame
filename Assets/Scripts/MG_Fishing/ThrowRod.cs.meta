@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: a165273f6afe04a94ae8948a49c79eac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cube: {instanceID: 0}
+  - ball: {instanceID: 0}
+  - fish_caught_panel: {instanceID: 0}
+  - fish: {instanceID: 0}
+  - rodCast: {instanceID: 0}
+  - fishWaterOut: {instanceID: 0}
+  - noFishWaterOut: {instanceID: 0}
+  - plop: {instanceID: 0}
+  - waterShake: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
