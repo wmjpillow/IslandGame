@@ -1,0 +1,48 @@
+{
+  "name": "com.unity.quicksearch",
+  "displayName": "Quick Search",
+  "version": "1.5.2-preview.1",
+  "unity": "2018.3",
+  "keywords": [
+    "unity",
+    "editor",
+    "omni",
+    "tool",
+    "quick",
+    "search",
+    "assets",
+    "menu",
+    "scene",
+    "api",
+    "packages",
+    "anything"
+  ],
+  "description": "Search multiple areas of Unity: assets, scene objects, menu items, packages, APIs, settings, etc.\n\nOn Windows simply press Alt+' to find anything or Option+' on Mac.\nLook in the shortcut manager for additional Quick Search shortcut bindings.",
+  "author": {
+    "name": "Unity Technologies ApS",
+    "url": "https://docs.unity3d.com/Packages/com.unity.quicksearch@1.5/manual/index.html"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.quicksearch.git",
+    "revision": "5d7079382f7ed2f43430098e1ed64b6f9efd94b8"
+  },
+  "samples": [
+    {
+      "displayName": "QueryEngine Basic",
+      "description": "Basic usage of the Query Engine, which should cover most needs.",
+      "path": "Samples~/QueryEngineBasic"
+    },
+    {
+      "displayName": "QueryEngine Custom Operators",
+      "description": "Customisation of the Query Engine for your specific needs.",
+      "path": "Samples~/QueryEngineCustomOperators"
+    },
+    {
+      "displayName": "Spatial Provider",
+      "description": "Spatial Provider example using the QueryEngine.",
+      "path": "Samples~/SpatialProvider"
+    }
+  ]
+}
